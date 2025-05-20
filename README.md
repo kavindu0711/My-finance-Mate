@@ -38,7 +38,7 @@
 | Backend      | Node.js, Express.js  |
 | Database     | MongoDB              |
 | Authentication | JWT               |
-| Others       | Voice Recognition (AI), Smart Analytics |
+| Others       | Voice Recognition , Smart Analytics |
 
 ---
 
@@ -47,7 +47,7 @@
 - Effortless financial tracking via voice or text
 - Smart budgeting and goal setting
 - Real-time financial insights and recommendations
-- AI-powered planning for smarter decisions
+- Automated planning for smarter decisions
 - Secure login with role-based access
 
 ---
