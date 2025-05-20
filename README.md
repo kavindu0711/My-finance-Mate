@@ -24,7 +24,7 @@
 - Search goals by name, category, or timeline.
 - Secure authentication using JWT and role-based access.
 
-### ✅ Voice-Enabled Features & AI Budgeting
+### ✅ Voice-Enabled Features & Automated Budgeting
 - Enter transactions using voice commands.
 - automatic budget prediction based on past data.
 
