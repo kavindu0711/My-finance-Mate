@@ -26,9 +26,7 @@
 
 ### ✅ Voice-Enabled Features & AI Budgeting
 - Enter transactions using voice commands.
-- AI-powered automatic budget prediction based on past data.
-- Voice-based search for transactions, budgets, and goals.
-- Get AI-driven recommendations and insights.
+- automatic budget prediction based on past data.
 
 ---
 
